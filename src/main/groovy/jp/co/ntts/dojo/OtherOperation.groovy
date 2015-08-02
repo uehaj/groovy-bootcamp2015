@@ -30,6 +30,7 @@ class OtherOperation {
 	 */
 	def method1(name, age){
 		// [Question]穴埋め問題: ここを埋めて下さい。
+		new Person( name:name, age:age )
 	}
 
 	/**
@@ -43,5 +44,6 @@ class OtherOperation {
 
 	def method2(a, b){
 		// [Question]穴埋め問題: ここを埋めて下さい。
+		namedArgMethod( hoge:a, fuga:b )
 	}
 }

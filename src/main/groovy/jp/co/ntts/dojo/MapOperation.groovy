@@ -11,6 +11,7 @@ class MapOperation {
 	 */
 	def method1() {
 		// [Question]穴埋め問題: ここを埋めて下さい。
+		[:]
 	}
 
 	/**
@@ -18,6 +19,7 @@ class MapOperation {
 	 */
 	def method2(Map map) {
 		// [Question]穴埋め問題: ここを埋めて下さい。
+		map.age
 	}
 
 	/**
@@ -26,6 +28,7 @@ class MapOperation {
 	 */
 	def method3(Map map, key) {
 		// [Question]穴埋め問題: ここを埋めて下さい。
+		map.get(key)
 	}
 
 	/**
@@ -34,6 +37,7 @@ class MapOperation {
 	 */
 	def method4(Map map, key) {
 		// [Question]穴埋め問題: ここを埋めて下さい。
+		map[key]
 	}
 
 	/**
@@ -42,6 +46,7 @@ class MapOperation {
 	 */
 	def method5(Map map, key) {
 		// [Question]穴埋め問題: ここを埋めて下さい。
+		map."$key"
 	}
 
 	/**
@@ -49,6 +54,7 @@ class MapOperation {
 	 */
 	def method6(Map map, value) {
 		// [Question]穴埋め問題: ここを埋めて下さい。
+		map.age = value
 		return map
 	}
 	/**
@@ -57,6 +63,7 @@ class MapOperation {
 	 */
 	def method7(Map map, key, value) {
 		// [Question]穴埋め問題: ここを埋めて下さい。
+		map.put(key, value)
 		return map
 	}
 	/**
@@ -65,6 +72,7 @@ class MapOperation {
 	 */
 	def method8(Map map, key, value) {
 		// [Question]穴埋め問題: ここを埋めて下さい。
+		map[key] = value
 		return map
 	}
 	/**
@@ -73,6 +81,7 @@ class MapOperation {
 	 */
 	def method9(Map map, key, value) {
 		// [Question]穴埋め問題: ここを埋めて下さい。
+		map."$key" = value
 		return map
 	}
 }

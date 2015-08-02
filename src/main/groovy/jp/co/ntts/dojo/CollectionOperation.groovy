@@ -11,7 +11,7 @@ class CollectionOperation {
 	 */
 	def method1(collection) {
 		def total = 0
-		// [Question]穴埋め問題: ここを埋めて下さい。
+		collection.each { total += it } // Answer 別解: injectを使う
 		total
 	}
 
@@ -20,7 +20,7 @@ class CollectionOperation {
 	 * [1,2,3] ==> [3, 6, 9]
 	 */
 	def method2(collection) {
-		// [Question]穴埋め問題: ここを埋めて下さい。
+		collection.collect { it * 3 } // Answer
 	}
 
 	/**
@@ -28,7 +28,7 @@ class CollectionOperation {
 	 * [1,2,3,4] ==> [2, 4]
 	 */
 	def method3(collection) {
-		// [Question]穴埋め問題: ここを埋めて下さい。
+		collection.findAll { it % 2 == 0 } // Answer 別解: grepを使う
 	}
 
 	/**
@@ -36,7 +36,7 @@ class CollectionOperation {
 	 * [1,2,3,4] ==> 2
 	 */
 	def method4(collection) {
-		// [Question]穴埋め問題: ここを埋めて下さい。
+		collection.find { it % 2 == 0 } // Answer
 	}
 
 	/**
@@ -44,6 +44,6 @@ class CollectionOperation {
 	 * in演算子を使用。
 	 */
 	def method5(collection, elem) {
-		// [Question]穴埋め問題: ここを埋めて下さい。
+		elem in collection  // Answer
 	}
 }

@@ -11,6 +11,7 @@ class ListOperation {
 	 */
 	def method1() {
 		// [Question]穴埋め問題: ここを埋めて下さい。
+		[]
 	}
 
 	/**
@@ -18,6 +19,7 @@ class ListOperation {
 	 */
 	def method2(List list, n) {
 		// [Question]穴埋め問題: ここを埋めて下さい。
+		list[n]
 	}
 
 	/**
@@ -25,6 +27,7 @@ class ListOperation {
 	 */
 	def method3(List list) {
 		// [Question]穴埋め問題: ここを埋めて下さい。
+		list[-1]
 	}
 
 	/**
@@ -32,6 +35,7 @@ class ListOperation {
 	 */
 	def method4(List list) {
 		// [Question]穴埋め問題: ここを埋めて下さい。
+		list.size()
 	}
 
 	/**
@@ -39,6 +43,7 @@ class ListOperation {
 	 */
 	def method5(List list1, List list2) {
 		// [Question]穴埋め問題: ここを埋めて下さい。
+		list1 + list2
 	}
 
 	/**
@@ -46,6 +51,7 @@ class ListOperation {
 	 */
 	def method6(List list) {
 		// [Question]穴埋め問題: ここを埋めて下さい。
+		list * 3
 	}
 
 	/**
@@ -53,6 +59,7 @@ class ListOperation {
 	 */
 	def method7(List list, elem) {
 		// [Question]穴埋め問題: ここを埋めて下さい。
+		list + elem
 	}
 
 	/**
@@ -60,5 +67,6 @@ class ListOperation {
 	 */
 	def method8(List list) {
 		// [Question]穴埋め問題: ここを埋めて下さい。
+		list.sort()
 	}
 }
