@@ -2,11 +2,12 @@
 
 ## GGTS
 - GGTS http://spring.io/tools/ggts
+以下からダウンロード。
+<img src="images/image13.png" />
 
 ## Eclipse
-- Eclipse
+- 以下から「Eclipse IDE for Java Developers」などをダウンロード
  - https://eclipse.org/downloads/
-  Eclipse IDE for Java Developers
   <img src="images/image1.png" />
   <img src="images/image2.png" />
   
@@ -17,7 +18,10 @@
   <img src="images/image4.png" />
 
 ## URLを入力
- http://dist.springsource.org/snapshot/GRECLIPSE/e4.5/
+- Eclipse 4.5 Mars: http://dist.springsource.org/snapshot/GRECLIPSE/e4.5/
+- Eclipse 4.4 Luna:
+その他は以下を参照:
+ - https://github.com/groovy/groovy-eclipse/wiki
   <img src="images/image5.png" />
 Groovy-Eclipse(Required)を選択
   <img src="images/image6.png" />
