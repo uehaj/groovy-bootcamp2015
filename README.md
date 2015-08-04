@@ -25,19 +25,28 @@
   <img src="images/image5.png" />
 Groovy-Eclipse(Required)を選択
   <img src="images/image6.png" />
+Next
   <img src="images/image7.png" />
+Yes
   
 # import prject
 
-https://github.com/uehaj/groovy-bootcamp2015.git
+## File-import
 
 <img src="images/image8.png" />
 
+## Project From Git
+
 <img src="images/image9.png" />
+
+## Clone URLを選択
 <img src="images/image10.png" />
+
+## URLを入力
+- https://github.com/uehaj/groovy-bootcamp2015.git
 <img src="images/image11.png" />
+
+## ブランチの選択
+answerとmasterの両方チェック。
 <img src="images/image12.png" />
-
-
-# groovy-bootcamp2015
 
