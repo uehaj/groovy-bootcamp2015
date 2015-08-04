@@ -26,14 +26,14 @@
 
 - https://github.com/groovy/groovy-eclipse/wiki
 
-- <img src="images/image5.png" />
-  Groovy-Eclipse(Required)を選択
+## プラグインのインストール手順
 
-- <img src="images/image6.png" />
-  Next
+###  Groovy-Eclipse(Required)を選択
+- <img src="images/image5.png" />
+
+- <img src="images/image6.png" /> ->Next
   
-- <img src="images/image7.png" />
-  Yes
+- <img src="images/image7.png" /> -> Yes
   
 # プロジェクトをインポートする
 
