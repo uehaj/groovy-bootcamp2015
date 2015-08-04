@@ -32,9 +32,9 @@
 
 ## プラグインのインストール手順
 
-- <img src="images/image6.png" /> →Next
+<img src="images/image6.png" /> →Next
   
-- <img src="images/image7.png" /> →Yes
+<img src="images/image7.png" /> →Yes
   
 # プロジェクトをインポートする
 
