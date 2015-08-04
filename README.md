@@ -19,6 +19,8 @@
 
 ## プラグインのURLを入力
 
+以下のURLを入力し、Groovy-Eclipse(Required)を選択する。
+
 - Eclipse 4.5 Mars: http://dist.springsource.org/snapshot/GRECLIPSE/e4.5/
 - Eclipse 4.4 Luna: http://dist.springsource.org/snapshot/GRECLIPSE/e4.4/
 
@@ -26,14 +28,13 @@
 
 - https://github.com/groovy/groovy-eclipse/wiki
 
-## プラグインのインストール手順
-
-###  Groovy-Eclipse(Required)を選択
 - <img src="images/image5.png" />
 
-- <img src="images/image6.png" /> ->Next
+## プラグインのインストール手順
+
+- <img src="images/image6.png" /> →Next
   
-- <img src="images/image7.png" /> -> Yes
+- <img src="images/image7.png" /> →Yes
   
 # プロジェクトをインポートする
 
