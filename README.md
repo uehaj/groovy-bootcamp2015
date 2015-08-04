@@ -34,7 +34,9 @@
   
 <img src="https://github.com/uehaj/groovy-bootcamp2015/blob/master/images/image7.png" /> →Yes
   
-# プロジェクトをインポートする
+# ハンズオンのための穴埋めコードをgithubからインポートする
+
+Eclipse/GGTSから以下を実行。
 
 ## [File]-[import]
 
