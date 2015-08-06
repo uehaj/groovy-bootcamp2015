@@ -11,7 +11,6 @@ class StringOperation {
 	 */
 	def method1() {
 		// [Question]穴埋め問題: ここを埋めて下さい。
-		return ''
 	}
 
 	/**
@@ -19,7 +18,6 @@ class StringOperation {
 	 */
 	def method2(String str) {
 		// [Question]穴埋め問題: ここを埋めて下さい。
-		return str.size()
 	}
 
 	/**
@@ -29,7 +27,6 @@ class StringOperation {
 	 */
 	def method3(String str, n) {
 		// [Question]穴埋め問題: ここを埋めて下さい。
-		str[n]
 	}
 
 	/**
@@ -38,7 +35,6 @@ class StringOperation {
 	 */
 	def method4(a, b, c) {
 		// [Question]穴埋め問題: ここを埋めて下さい。
-		"$a,$b,$c"
 	}
 
 	/**
@@ -48,9 +44,6 @@ class StringOperation {
 	 */
 	def method5() {
 		// [Question]穴埋め問題: ここを埋めて下さい。
-		"""abc
-def
-"""
 	}
 
 	/**
@@ -59,7 +52,6 @@ def
 	 */
 	def method6() {
 		// [Question]穴埋め問題: ここを埋めて下さい。
-		return (/c:\WINDOWS\system32\drivers\etc\hosts/)
 	}
 
 	/**
@@ -70,7 +62,6 @@ def
 	 */
 	def method7(String s) {
 		// [Question]穴埋め問題: ここを埋めて下さい。
-		s.padLeft(10," ")
 	}
 
 	/**
@@ -79,6 +70,5 @@ def
 	 */
 	def method8(String s) {
 		// [Question]穴埋め問題: ここを埋めて下さい。
-		s.tr("あ-ん", "ア-ン")
 	}
 }
